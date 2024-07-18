@@ -1,0 +1,5 @@
+int a = 8
+int b
+b = 3
+if(b>0):
+	a++
